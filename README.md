@@ -35,12 +35,12 @@ School 21 graduate (**Business Systems Analyst**), studying MIS at **Webster Uni
 | **[MockMate](https://mockmate-swart.vercel.app/)** | AI mock interview platform (Next.js) |
 | **Web testing artifacts** | Test cases, checklists, ISO 29119 test plan, boundary test data |
 
-### 📊 Stats
+### 🐍 Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Javharr&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Javharr&hide_border=true&theme=github-dark-blue" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
+  <img alt="Contribution snake" src="./dist/snake-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <a href="mailto:bohodirovjavhar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
