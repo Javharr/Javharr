@@ -141,7 +141,10 @@ def fetch_stats(user="Javharr"):
         followers=u["followers"]["totalCount"],
         commits=commits, contributions=contributions,
         loc=add - rem, add=add, rem=rem,
-        uptime=f"{months // 12} years, {months % 12} months",
+        uptime=", ".join(p for p in (
+            f"{months // 12} year{'s' * (months // 12 != 1)}" if months >= 12 else "",
+            f"{months % 12} month{'s' * (months % 12 != 1)}" if months % 12 or months < 12 else "",
+        ) if p),
         updated=today.isoformat(),
     )
 

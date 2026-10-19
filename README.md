@@ -42,6 +42,8 @@ School 21 graduate (**Business Systems Analyst**), studying MIS at **Webster Uni
   <img alt="Contribution snake" src="./dist/snake-light.svg" width="100%">
 </picture>
 
+<br>
+
 <p align="center">
   <a href="mailto:bohodirovjavhar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/javxarr"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
