@@ -28,12 +28,13 @@ School 21 graduate (**Business Systems Analyst**), studying MIS at **Webster Uni
 
 | | |
 |---|---|
+| **[plsql-prep](https://github.com/Javharr/plsql-prep)** | Interactive PL/SQL course and interview trainer: 26 lessons, 202 auto-checked tasks on Oracle Autonomous DB, 349 questions |
+| **[school21-bsa](https://github.com/Javharr/school21-bsa)** | School 21 Business Systems Analyst track, 16 projects: stakeholders → BPMN → ER → UI → REST / SOAP |
+| **[school21-sql-bootcamp](https://github.com/Javharr/school21-sql-bootcamp)** | 12 PostgreSQL projects: joins, DML, views, indexes, isolation levels, PL/pgSQL triggers, DWH |
 | **[meet-meme-cam](https://github.com/Javharr/meet-meme-cam)** | Chrome extension for Google Meet: faces, gestures and claps turn into memes everyone in the call sees. On-device MediaPipe |
 | **[oracle-sql-reports](https://github.com/Javharr/oracle-sql-reports)** | Oracle SQL / PL/SQL reports |
 | **[Résumé site](https://github.com/Javharr/javhar-portfolio)** | React + Vite, deployed on Railway |
-| **Barbershop & Delivery** | End-to-end system analysis: stakeholders → BPMN → ER → REST/SOAP specs (School 21, 16 projects) |
 | **[MockMate](https://mockmate-swart.vercel.app/)** | AI mock interview platform (Next.js) |
-| **Web testing artifacts** | Test cases, checklists, ISO 29119 test plan, boundary test data |
 
 ### `~/activity`
 
